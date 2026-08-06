@@ -38,49 +38,6 @@ Hardware and firmware engineer designing PCIe endpoints that the host OS treats 
 
 ---
 
-### Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<h4>
-  <img src="https://img.shields.io/badge/N-0D1117?style=flat-square&color=00D4AA&logoColor=0D1117" />
-  NexusForge
-</h4>
-
-FPGA board management application built with Avalonia UI on .NET 8. Detects FPGA boards over JTAG via CH347, reads silicon DNA, and flashes firmware through an embedded OpenOCD instance. Ships as a single-file self-contained Windows binary with all drivers and tools bundled as encrypted resources.
-
-<br/>
-
-![C#](https://img.shields.io/badge/C%23-161B22?style=flat-square&logo=csharp&logoColor=00D4AA)
-![Avalonia](https://img.shields.io/badge/Avalonia-161B22?style=flat-square&logoColor=00D4AA)
-![.NET 8](https://img.shields.io/badge/.NET_8-161B22?style=flat-square&logo=dotnet&logoColor=00D4AA)
-
-[![View](https://img.shields.io/badge/View_Repository-00D4AA?style=flat-square&logo=github&logoColor=0D1117)](https://github.com/Sylnar/NexusForge)
-
-</td>
-<td width="50%" valign="top">
-<h4>
-  <img src="https://img.shields.io/badge/L-0D1117?style=flat-square&color=00A88A&logoColor=0D1117" />
-  LeechCore (fork)
-</h4>
-
-Fork of the open-source physical memory acquisition library with a targeted reliability fix for FPGA-based PCIe DMA hardware over FT601 USB. Eliminates intermittent device-not-found failures caused by read-pipe desync on cold opens, without touching the data path or adding re-init overhead.
-
-<br/>
-
-![C](https://img.shields.io/badge/C-161B22?style=flat-square&logo=c&logoColor=00D4AA)
-![PCIe](https://img.shields.io/badge/PCIe_DMA-161B22?style=flat-square&logoColor=00D4AA)
-![FPGA](https://img.shields.io/badge/FPGA-161B22?style=flat-square&logoColor=00D4AA)
-
-[![View](https://img.shields.io/badge/View_Repository-00A88A?style=flat-square&logo=github&logoColor=0D1117)](https://github.com/Sylnar/LeechCore)
-
-</td>
-</tr>
-</table>
-
----
-
 ### Tech Stack
 
 <br/>
@@ -111,19 +68,6 @@ Fork of the open-source physical memory acquisition library with a targeted reli
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sylnar&show_icons=true&theme=dark&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=6E7681&border_color=161B22&hide_border=false" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sylnar&layout=compact&theme=dark&bg_color=0D1117&title_color=00D4AA&text_color=6E7681&border_color=161B22&hide_border=false" width="42%"/>
-
-</div>
-
-<br/>
-
----
-
 <br/>
 
 <div align="center">
@@ -132,7 +76,7 @@ Fork of the open-source physical memory acquisition library with a targeted reli
 
 <br/><br/>
 
-<sub>Releases are unsigned. SmartScreen will warn on first launch. Source is available — build from source if preferred.</sub>
+<sub>Releases are unsigned. SmartScreen will warn on first launch. Source is available, build from source if preferred.</sub>
 
 <br/><br/>
 
