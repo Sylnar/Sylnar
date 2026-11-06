@@ -14,6 +14,8 @@
 [![Stars](https://img.shields.io/github/stars/Sylnar?label=Stars&style=for-the-badge&logo=github&color=00D4AA&labelColor=0D1117)](https://github.com/Sylnar)
 [![Focus](https://img.shields.io/badge/PCIe_%26_FPGA-Engineering-00D4AA?style=for-the-badge&labelColor=0D1117)](https://github.com/Sylnar)
 [![Website](https://img.shields.io/badge/sylnar.com-00D4AA?style=for-the-badge&logo=internetarchive&logoColor=0D1117&labelColor=0D1117)](https://sylnar.com)
+[![Discord](https://img.shields.io/badge/Join_the_Sylnar_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117)](https://discord.gg/hyMybbsWRD)
+[![Sylnar Tool](https://img.shields.io/badge/Sylnar_Tool-v1.1.39-00D4AA?style=for-the-badge&logo=windows&labelColor=0D1117)](https://github.com/Sylnar/NexusForge/releases/tag/v1.1.39)
 
 </div>
 
